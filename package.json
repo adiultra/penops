@@ -1,7 +1,7 @@
 {
   "name": "penops-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A creamy syntax, Better for writting than editing",
   "repository": "https://github.com/adiultra/penops",
   "license": "MIT",
